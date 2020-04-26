@@ -2333,7 +2333,7 @@
     #define Y_STALL_SENSITIVITY  0
     #define Z_STALL_SENSITIVITY  0
     //#define SPI_ENDSTOPS              // TMC2130 only
-    #define IMPROVE_HOMING_RELIABILITY
+    //#define IMPROVE_HOMING_RELIABILITY
   #endif
 
   /**
